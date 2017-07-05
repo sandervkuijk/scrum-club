@@ -13,5 +13,6 @@ Here, we keep track of topic ideas for future meetings.
 * [Shiny](https://shiny.rstudio.com/)
 * [LaTeX](https://www.latex-project.org/)
 * Linux/Unix
+* [BUGS](https://www.mrc-bsu.cam.ac.uk/software/bugs/)/[JAGS](http://mcmc-jags.sourceforge.net/)
 * project organization
 * presentation software/tools (alternatives to PowerPoint)
